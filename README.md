@@ -1,3 +1,5 @@
+## Sample project using native modules for Electron and Node, rebuilding only as needed.
+
 As seen on https://github.com/yarnpkg/yarn/issues/5680#issuecomment-383237644 :)
 
 To test this setup, run:
